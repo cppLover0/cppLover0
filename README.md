@@ -1,6 +1,6 @@
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=[yourusername]&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> </p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=cpplover0&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> </p>
 
-## x86 ASM, C/C++ Lover
-
-## Currently working on my os Orange
+## C++Lover0
+#### I am programming on x86 ASM and C/C++
+#### Currenly working on my [x86_64 OS](https://github.com/cpplover0/orange)
