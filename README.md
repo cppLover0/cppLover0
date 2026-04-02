@@ -1,10 +1,6 @@
 
 ## C++Lover0
-I'm 16 y.o
-
-And i programming on x86 ASM and C/C++
-
-Currenly working on my [x86_64 OS](https://github.com/cpplover0/orange)
+16 y.o c++ lover
 
 
 
